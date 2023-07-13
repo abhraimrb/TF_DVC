@@ -1,0 +1,5 @@
+outs:
+- md5: c01ae1fb9dbcb971db261f9e4ab53704.dir
+  size: 12869317
+  nfiles: 5
+  path: tf_model_cifar10

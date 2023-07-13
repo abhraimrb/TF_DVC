@@ -1,0 +1,8 @@
+[core]
+    remote = images
+['remote "images"']
+    url = azure://cifar10
+    connection_string = DefaultEndpointsProtocol=https;AccountName=cifar10project;AccountKey=ZM1dCRFTVzbduU6g42trO5nNsEpnAQjLfVe2TsrFUq/LzLLdQqNnN0Sg4KIapIP+XdjJBeMrdKjk+AStSkhCiQ==;EndpointSuffix=core.windows.net
+    account_name = cifar10project
+    allow_anonymous_login = true
+    version_aware = true
